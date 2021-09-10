@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+#eclipse confi
+.project
+
 # Log file
 *.log
 
